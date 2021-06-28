@@ -42,7 +42,7 @@
     "types-bn": "^0.0.1",
     "types-ethereumjs-util": "^0.0.5",
     "typescript": "^2.6.2",
-    "web3": "^0.20.4",
+    "web3": "^0.20.6",
     "web3-typescript-typings": "^0.9.4"
   },
   "dependencies": {
